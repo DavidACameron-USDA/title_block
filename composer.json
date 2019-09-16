@@ -1,0 +1,7 @@
+{
+  "name": "dcameron/title_block",
+  "description": "Provides a page title block that isn't broken by Layout Builder",
+  "type": "drupal-module",
+  "require": {}
+}
+
